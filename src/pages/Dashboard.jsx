@@ -41,7 +41,7 @@ const Dashboard = () => {
         <>
             <section className='heading'>
                 <h3>Bienvenido {user && user.name}</h3>
-                <p>Dashborad de Tareas</p>
+                <p>Dashborad de Tareas App</p>
             </section>
 
             <TareaForm />
